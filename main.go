@@ -6,6 +6,7 @@ import (
 
 func main() {
 
-	controllers.ApiFetch()
+	// controllers.ApiFetch()
+	controllers.StartMainServer()
 
 }
